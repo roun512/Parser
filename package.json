@@ -1,0 +1,9 @@
+{
+  "name": "parser",
+  "title": "Parser",
+  "id": "parser",
+  "description": "Parser.",
+  "author": "roun512",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
